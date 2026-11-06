@@ -1,0 +1,1 @@
+The style engine is derived from Codex Dream Skin 1.5.21, MIT licensed. See assets/engine/LICENSE and assets/engine-files.json for upstream attribution, hashes and local changes. The pinned Node license is in assets/NODE-LICENSE.txt. No Node executable or example background is bundled.

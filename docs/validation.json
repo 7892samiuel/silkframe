@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "version": "0.2.0-preview.1",
+  "checked": "2026-11-07T01:41:00.8282478+08:00",
+  "componentChecksPassed": true,
+  "componentCheckCount": 74,
+  "windowFixturesRun": true,
+  "skillSchemaValid": true,
+  "readOnlyDoctorPassed": true,
+  "demoCodexVersion": "26.1103.3517.0",
+  "cleanInstallTested": false,
+  "githubWorkflowRun": false,
+  "liveCodexModifiedByPreparation": false,
+  "status": "preview-awaiting-clean-install"
+}

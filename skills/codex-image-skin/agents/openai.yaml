@@ -1,0 +1,3 @@
+interface:
+  display_name: "Silkframe 图片换肤"
+  short_description: "用一张图片制作 Codex 主题，保存并配置原版入口自动加载"
