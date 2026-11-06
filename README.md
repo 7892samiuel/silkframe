@@ -12,7 +12,6 @@ Windows x64 · Preview · MIT · by螃蟹
 
 - **Original activation preserved.** Prepare the local theme channel inside the original app process, keeping its native profile and activation arguments.
 - **A startup curtain with its own lifetime.** Cover the app's internal window handoff, then reveal the interface after the theme is verified. Skippable, with bounded timeouts.
-- **Restoration without the model.** A local runtime remembers the selected skin. Reopening the app does not require an active chat or available model quota.
 
 Provide an image; the skill builds its palette and saves the theme. The loading image, colors, text and credit are configurable. Pause, resume and disable are included.
 

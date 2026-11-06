@@ -29,7 +29,7 @@ flowchart LR
 
 ## 3. Separate the skill from persistence
 
-The skill interprets the image and requests, generates a theme, invokes setup and reports verification. A local runtime owns cross-launch restoration. Model availability is not part of its startup path.
+The skill interprets the image and requests, generates a theme, invokes setup and reports verification. A local runtime owns cross-launch restoration.
 
 The distribution exposes image, palette, text and author credit as configuration. No example character, artwork or personal app profile is required. Existing verified theme environments are reused; foreign startup callbacks are preserved.
 

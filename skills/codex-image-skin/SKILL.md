@@ -35,7 +35,7 @@ description: Turn a user-provided image into a persistent Codex desktop skin on 
 
 - 换图：重新制作、校验并 Apply，复用同一个后台；失败回滚到上一套主题。
 - 暂停 `-Action Pause`；恢复 `-Action Resume`；停用本技能自有后台 `-Action Disable`。复用其他引擎时，只暂停皮肤，不卸载或禁用其他产品。
-- 模型额度不是本地换肤程序的运行依赖。按实际日志诊断，不循环重启应用。
+- 按实际日志诊断，不循环重启应用。
 - 文案默认简洁，示例角色、作品名和作者署名不得成为其他用户的默认值。用户需要加载画面或自定义署名时，按 Windows 说明修改新装运行时的 `loading-preferences.json`，再 Apply。复用环境不擅自改动原加载程序。
 - 运行机制、依赖、回滚和验证边界见 [Windows 运行说明](references/windows-runtime.md)。
 
