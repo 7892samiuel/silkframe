@@ -6,5 +6,5 @@
 *.png binary
 *.mp4 binary
 *.zip binary
-skills/codex-image-skin/assets/engine/** -text -whitespace
+skills/codex-image-skin/assets/engine/** -text -whitespace linguist-vendored=true
 skills/codex-image-skin/assets/NODE-LICENSE.txt -whitespace

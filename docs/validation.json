@@ -9,7 +9,12 @@
   "readOnlyDoctorPassed": true,
   "demoCodexVersion": "26.1103.3517.0",
   "cleanInstallTested": false,
-  "githubWorkflowRun": false,
+  "githubWorkflowRun": true,
   "liveCodexModifiedByPreparation": false,
-  "status": "preview-awaiting-clean-install"
+  "status": "preview-awaiting-clean-install",
+  "githubWorkflow": {
+    "url": "https://github.com/7892samiuel/silkframe/actions/runs/42266581755",
+    "conclusion": "success",
+    "windowFixturesRun": false
+  }
 }

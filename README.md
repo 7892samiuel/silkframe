@@ -39,7 +39,7 @@ The first setup installs a local runtime. If Codex was already open without a pr
 
 This preview targets the official Windows x64 Store/MSIX app with the Owl runtime. It uses a verified loopback CDP connection and does not alter installed app files.
 
-The demo was recorded on Codex `26.1103.3517.0`. Native builds, argument preservation, image/theme validation, buffered rendering and window-handoff fixtures pass locally. A full first installation on a clean Windows user is still pending. Future app versions may need adaptation; zero startup flicker is not guaranteed.
+The demo was recorded on Codex `26.1103.3517.0`. Native builds, argument preservation and image/theme checks pass locally and on GitHub Actions. Buffered-rendering and native window-handoff fixtures pass locally. A full first installation on a clean Windows user is still pending. Future app versions may need adaptation; zero startup flicker is not guaranteed.
 
 <details>
 <summary>Loading curtain</summary>

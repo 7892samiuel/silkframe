@@ -2,7 +2,7 @@
 
 目标版本：`0.2.0-preview.1`。仓库说明与展示素材已准备；本文件记录发布验证的实际范围。
 
-本机演示对应的 Codex 版本为 `26.1103.3517.0`。已通过通用运行时编译、主题生成与引擎校验、参数保留与容量不足拒绝、缓冲绘制、窗口交接及可移植性检查。尚未在 GitHub 托管 runner 上执行 workflow。
+本机演示对应的 Codex 版本为 `26.1103.3517.0`。已通过通用运行时编译、主题生成与引擎校验、参数保留与容量不足拒绝、缓冲绘制、窗口交接及可移植性检查。GitHub Windows CI 已通过编译、无界面组件检查与打包，见 [运行记录](https://github.com/7892samiuel/silkframe/actions/runs/42266581755)；原生窗口 fixture 在本机通过，CI 不运行窗口 fixture。
 
 本地验证摘要见 [validation.json](validation.json)。完整输出由检查脚本写入被 Git 忽略的 `.validation` 目录，避免把本机路径和运行状态放进公开仓库。
 
