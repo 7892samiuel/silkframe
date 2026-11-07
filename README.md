@@ -51,10 +51,10 @@ The media show an example theme. Its character background is not bundled in the 
 
 [Setup and recovery](docs/SETUP.md) · [Runtime configuration](docs/RUNTIME.md) · [Validation record](docs/RELEASE.md)
 
-## Credits
+## License
 
-Silkframe uses [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 1.5.21 for style injection. The original activation adapter, independent startup curtain and skill orchestration are the added work in this project. See [third-party notices](THIRD-PARTY-NOTICES.md).
+MIT · by螃蟹 · [Third-party notices](THIRD-PARTY-NOTICES.md)
 
-Project code is MIT licensed. Third-party character imagery and identifiers are outside that code license. This is an independent community project.
+Preview imagery and third-party identifiers are outside the code license. This is an independent community project.
 
 Stars and compatibility reports help this preview reach more Windows users.

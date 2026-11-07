@@ -1,6 +1,6 @@
 # Silkframe design
 
-Silkframe builds on Codex Dream Skin's image and CSS injection engine. The contributions here focus on the original app lifecycle, window handoffs and a reusable skill/runtime boundary.
+Silkframe focuses on the original app lifecycle, window handoffs and a reusable skill/runtime boundary. Dependency provenance and licensing are recorded in [third-party notices](../THIRD-PARTY-NOTICES.md).
 
 ## 1. Prepare the original activation
 

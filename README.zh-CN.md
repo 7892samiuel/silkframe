@@ -52,10 +52,10 @@ Skill 会保存图片、生成配色、检查本地环境，再应用主题。�
 
 [安装与恢复](docs/SETUP.md) · [实现与配置](docs/RUNTIME.md) · [发布验证记录](docs/RELEASE.md)
 
-## 致谢
+## 许可
 
-样式注入基于 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 1.5.21。第三方许可与本地修改见 [THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md)。
+MIT · by螃蟹 · [第三方许可](THIRD-PARTY-NOTICES.md)
 
-本项目代码采用 MIT 许可。截图中的角色与作品标识不属于代码许可范围。
+截图中的角色与作品标识不属于代码许可范围。
 
 觉得有用的话，欢迎点个 Star，或反馈你的 Codex 版本与使用效果。
